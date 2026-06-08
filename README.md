@@ -1,6 +1,2 @@
 # test2026
-Something should've been done by now. 
-Confirmed. All Good. 
-Tested once more - one error needs to be fixed. 
-Continued testing - everything works 
-Continued testing - no errors. 
+Something's off, not sure what but it is
